@@ -1,7 +1,7 @@
 ![MasterHead](http://miro.medium.com/v2/resize:fit:800/1*RefiWNJGTlnSO4el9_jjRQ.png)
 
 <h1 align="center">Hi 👋, I'm Aydın Kaya</h1>
-<h3 align="center">A passionate IOS developer from Turkey</h3>
+<h3 align="center">A passionate Mobil developer from Turkey</h3>
 
 - 🔭 I’m currently working on **IOS**
 
