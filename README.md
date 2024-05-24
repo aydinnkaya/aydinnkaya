@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aydinnkaya](https://github.com/aydinnkaya)
 
-- 📫 How to reach me **Aydınnkaya1@gmail.com**
+- 📫 How to reach me **aydinnkaya1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
