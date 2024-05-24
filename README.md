@@ -1,4 +1,4 @@
-![MasterHead](http://miro.medium.com/v2/resize:fit:800/1*RefiWNJGTlnSO4el9_jjRQ.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*t1pEc6Sg5r97hMcyhB-E1Q.png)
 
 <h1 align="center">Hi 👋, I'm Aydın Kaya</h1>
 <h3 align="center">A passionate Mobil developer from Turkey</h3>
