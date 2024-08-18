@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Aydın Kaya</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
-
-- 🔭 I’m currently working on **iOS**
+ 
+- 🔭 I’m currently working on **iOS** and **Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aydinnkaya](https://github.com/aydinnkaya)
 
