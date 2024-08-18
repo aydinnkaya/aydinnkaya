@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aydın Kaya</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **iOS** and **Anroid**
+- 🔭 I’m currently working on **iOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aydinnkaya](https://github.com/aydinnkaya)
 
@@ -17,9 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://developer.apple.com/documentation/objectivec" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Objective-C_Logo.png" alt="objective-c" width="40" height="40"/> 
-    </a>
     <a href="https://developer.apple.com/documentation/swiftui/" target="_blank" rel="noreferrer"> 
         <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> 
     </a>
@@ -65,39 +62,7 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     </a> 
-    <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://appium.io/img/logos/appium/appium-logo-600x124.png" alt="appium" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.apple.com/documentation/uikit/" target="_blank" rel="noreferrer"> 
-        <img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/intro-ui-kit-dark_2x.png" alt="uikit" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.apple.com/documentation/coredata/" target="_blank" rel="noreferrer"> 
-        <img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/intro-core-data_2x.png" alt="coredata" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.apple.com/documentation/visionos/" target="_blank" rel="noreferrer"> 
-        <img src="https://developer.apple.com/documentation/visionos/images/visionos-icon-160.png" alt="visionos" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.apple.com/documentation/mapkit/" target="_blank" rel="noreferrer"> 
-        <img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/intro-mapkit-dark_2x.png" alt="mapkit" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.apple.com/documentation/callkit/" target="_blank" rel="noreferrer"> 
-        <img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/intro-callkit-dark_2x.png" alt="callkit" width="40" height="40"/> 
-    </a> 
-    <a href="https://material.io/design/material-studies/material-3/" target="_blank" rel="noreferrer"> 
-        <img src="https://material.io/design/assets/1Jx9HjcOxfY5cH4TxwGdzlu4NfS9SmoJf/M3_Catalyst_Logo.png" alt="material-design-3" width="40" height="40"/> 
-    </a>
-    <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Retrofit_Logo.png" alt="retrofit" width="40" height="40"/> 
-    </a>
-    <a href="https://square.github.io/picasso/" target="_blank" rel="noreferrer"> 
-        <img src="https://square.github.io/picasso/static/sample.png" alt="picasso" width="40" height="40"/> 
-    </a>
-    <a href="https://rxjava.github.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://rxjava.github.io/images/rxjava-logo.png" alt="rxjava" width="40" height="40"/> 
-    </a>
+   
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinnkaya&show_icons=true&locale=en&layout=compact" alt="aydinnkaya" /></p>
