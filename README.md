@@ -69,4 +69,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydinnkaya&show_icons=true&locale=en" alt="aydinnkaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydinnkaya&" alt="aydinnkaya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydinnkaya&hide_border=true&theme=dark" alt="aydinnkaya" /></p>
