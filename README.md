@@ -1,6 +1,5 @@
 ![git](https://github.com/user-attachments/assets/2fef6629-a195-4675-a135-dbff4c730b59)
 
-
 <h1 align="center">Hi 👋, I'm Aydın Kaya</h1>
 <h3 align="center">iOS Developer | ARKit & visionOS Enthusiast | SwiftUI, UIKit, WebRTC | MVVM & Clean Architecture Advocate</h3>
 
@@ -35,7 +34,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aydın-kaya)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aydinnkaya1)
-📩 Email: aydinnkaya1@gmail.com
 
 ---
 
