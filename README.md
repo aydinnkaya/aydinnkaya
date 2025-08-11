@@ -106,12 +106,12 @@ Simple but scalable task management app with MVVM and CoreData.
 - Reduced manual QA effort by 40%.
 
 **📍 Orion Innovation — Mobile Developer Intern**  
-*Jan 2024 – Jun 2024*  
+*Sept 2023 – July 2024*  
 - Developed real-time video features with WebRTC & Ribbon SDK.  
 - Applied MVVM with Objective-C + Swift for modularity.  
 
 **📍 Orion Innovation — QA Intern**  
-*Jun 2023 – Jan 2024*  
+*Jun 2023 – Sept 2023*  
 - Built mobile test automation in Swift & Appium.  
 - Applied TDD & Azure-based backend validations.
 
